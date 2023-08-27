@@ -1,2 +1,1 @@
-# aula-DWEC8-IFSP-
-Aula de Desenvolvimento Web - IFSP
+# Disciplina: Desenvolvimento Web 2 - IFSP
